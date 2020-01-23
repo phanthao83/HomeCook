@@ -1,0 +1,8 @@
+C:\THAO\ASPCore\HomeCook\HC.Ultility\bin\Debug\netcoreapp3.0\HC.Ultility.deps.json
+C:\THAO\ASPCore\HomeCook\HC.Ultility\bin\Debug\netcoreapp3.0\HC.Ultility.dll
+C:\THAO\ASPCore\HomeCook\HC.Ultility\bin\Debug\netcoreapp3.0\HC.Ultility.pdb
+C:\THAO\ASPCore\HomeCook\HC.Ultility\obj\Debug\netcoreapp3.0\HC.Ultility.AssemblyInfoInputs.cache
+C:\THAO\ASPCore\HomeCook\HC.Ultility\obj\Debug\netcoreapp3.0\HC.Ultility.AssemblyInfo.cs
+C:\THAO\ASPCore\HomeCook\HC.Ultility\obj\Debug\netcoreapp3.0\HC.Ultility.dll
+C:\THAO\ASPCore\HomeCook\HC.Ultility\obj\Debug\netcoreapp3.0\HC.Ultility.pdb
+C:\THAO\ASPCore\HomeCook\HC.Ultility\obj\Debug\netcoreapp3.0\HC.Ultility.csprojAssemblyReference.cache

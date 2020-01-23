@@ -1,0 +1,11 @@
+C:\THAO\ASPCore\HomeCook\HC.DataAccess\bin\Debug\netcoreapp3.0\HC.DataAccess.deps.json
+C:\THAO\ASPCore\HomeCook\HC.DataAccess\bin\Debug\netcoreapp3.0\HC.DataAccess.dll
+C:\THAO\ASPCore\HomeCook\HC.DataAccess\bin\Debug\netcoreapp3.0\HC.DataAccess.pdb
+C:\THAO\ASPCore\HomeCook\HC.DataAccess\bin\Debug\netcoreapp3.0\HC.Model.dll
+C:\THAO\ASPCore\HomeCook\HC.DataAccess\bin\Debug\netcoreapp3.0\HC.Model.pdb
+C:\THAO\ASPCore\HomeCook\HC.DataAccess\obj\Debug\netcoreapp3.0\HC.DataAccess.csprojAssemblyReference.cache
+C:\THAO\ASPCore\HomeCook\HC.DataAccess\obj\Debug\netcoreapp3.0\HC.DataAccess.AssemblyInfoInputs.cache
+C:\THAO\ASPCore\HomeCook\HC.DataAccess\obj\Debug\netcoreapp3.0\HC.DataAccess.AssemblyInfo.cs
+C:\THAO\ASPCore\HomeCook\HC.DataAccess\obj\Debug\netcoreapp3.0\HC.DataAccess.csproj.CopyComplete
+C:\THAO\ASPCore\HomeCook\HC.DataAccess\obj\Debug\netcoreapp3.0\HC.DataAccess.dll
+C:\THAO\ASPCore\HomeCook\HC.DataAccess\obj\Debug\netcoreapp3.0\HC.DataAccess.pdb

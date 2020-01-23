@@ -1,0 +1,1 @@
+﻿https://pqina.nl/filepond/docs/patterns/api/filepond-instance/#events

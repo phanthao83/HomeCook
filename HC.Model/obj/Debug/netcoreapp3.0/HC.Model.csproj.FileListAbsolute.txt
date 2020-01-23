@@ -1,0 +1,8 @@
+C:\THAO\ASPCore\HomeCook\HC.Model\bin\Debug\netcoreapp3.0\HC.Model.deps.json
+C:\THAO\ASPCore\HomeCook\HC.Model\bin\Debug\netcoreapp3.0\HC.Model.dll
+C:\THAO\ASPCore\HomeCook\HC.Model\bin\Debug\netcoreapp3.0\HC.Model.pdb
+C:\THAO\ASPCore\HomeCook\HC.Model\obj\Debug\netcoreapp3.0\HC.Model.csprojAssemblyReference.cache
+C:\THAO\ASPCore\HomeCook\HC.Model\obj\Debug\netcoreapp3.0\HC.Model.AssemblyInfoInputs.cache
+C:\THAO\ASPCore\HomeCook\HC.Model\obj\Debug\netcoreapp3.0\HC.Model.AssemblyInfo.cs
+C:\THAO\ASPCore\HomeCook\HC.Model\obj\Debug\netcoreapp3.0\HC.Model.dll
+C:\THAO\ASPCore\HomeCook\HC.Model\obj\Debug\netcoreapp3.0\HC.Model.pdb
